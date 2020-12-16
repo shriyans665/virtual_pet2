@@ -1,1 +1,1 @@
-VirtualPet1
+VirtualPet2
